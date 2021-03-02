@@ -1,0 +1,11 @@
+.cart{
+    background-color: rgba(243, 241, 238, 0.522);
+    text-align: center;
+    
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid rgba(219, 209, 230, 0.226);
+    background-color: rgba(221, 213, 230, 0.082) ;
+    box-shadow: 5px 5px 5px 5px rgb(228, 204, 204);
+    margin-bottom: 10px;
+}
